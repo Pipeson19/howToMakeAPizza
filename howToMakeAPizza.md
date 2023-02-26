@@ -1,5 +1,3 @@
-Preparar la Masa de Pizza
-
 1. 500gr harina trigo
 2. 150g de agua tibia
 3. 20gr de levadura
